@@ -1,0 +1,24 @@
+
+
+
+.partie1 .row {
+
+    border: 1px;
+    font-size: 10px;
+
+
+}
+
+.partie2 {
+
+}
+
+.partie3 .section {
+    overflow: auto !important;
+    height: 110px !important;
+}
+
+
+
+
+
